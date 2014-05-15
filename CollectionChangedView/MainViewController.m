@@ -29,8 +29,6 @@
     // Do any additional setup after loading the view.
 }
 
-<<<<<<< HEAD
-=======
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section
 {
     return 100;
@@ -42,7 +40,6 @@
     return cell;
 }
 
->>>>>>> develop
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
